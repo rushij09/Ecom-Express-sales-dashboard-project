@@ -1,4 +1,4 @@
-# Power_BI_Dashboard
+# Ecom Express sales dashboard project
 
 Interactive Power BI dashboard analyzing Ecom Express sales data to uncover revenue trends, product performance, and operational insights for data-driven decisions.
 
